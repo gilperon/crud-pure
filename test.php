@@ -4,7 +4,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "meubanco";
+    $dbname = "task_db"; //Set the database_name here
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
