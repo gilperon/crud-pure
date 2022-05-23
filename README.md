@@ -3,7 +3,7 @@ Tutorial
 Clone this repository<br>
 git clone https://github.com/gilperon/crud-pure.git
 
-And open the php file, and create the tables
+And open the test.php file, and create the tables
 
     CREATE TABLE `customers` (
     `id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY ,
