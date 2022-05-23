@@ -1,1 +1,1 @@
-# crud-pure
+Just clone this github and exec 
